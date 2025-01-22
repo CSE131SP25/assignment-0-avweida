@@ -148,6 +148,7 @@ public class RobotController extends JFrame {
 
 	public String toString() {
 		return "RobotController";
+		//change
 	}
 	
 }
